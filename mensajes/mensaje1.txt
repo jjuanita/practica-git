@@ -1,1 +1,6 @@
--e "Se cree que esta capacidad puede darles a£n m s control sobre su capacidad de camuflaje cuando se acercan sigilosamente a sus presas desde abajo.\nCon cuerpos en forma de torpedo y potentes aletas en la cola,\nlos tiburones blancos pueden desplazarse por el agua a velocidades cercanas a los 50 kil¢metros por hora.\nEsta velocidad y una fuerza de mordedura de hasta 1,8 toneladas m‚tricas\npermiten al tibur¢n infligir r pidamente un traumatismo masivo a su presa,\nincapacitando a su objetivo y protegi‚ndolo as¡ contra un contraataque."
+-e "Se cree que esta capacidad puede darles a£n m s control sobre su capacidad de camuflaje cuando se acercan sigilosamente a sus presas desde abajo.
+Con cuerpos en forma de torpedo y potentes aletas en la cola,
+los tiburones blancos pueden desplazarse por el agua a velocidades cercanas a los 50 kil¢metros por hora.
+Esta velocidad y una fuerza de mordedura de hasta 1,8 toneladas m‚tricas
+permiten al tibur¢n infligir r pidamente un traumatismo masivo a su presa,
+incapacitando a su objetivo y protegi‚ndolo as¡ contra un contraataque."
